@@ -1,0 +1,14 @@
+#partsimage{
+    margin-top: -21px;
+    min-height: 1700px;
+}
+.departments{
+    padding-top: 20px;
+}
+.departments img{
+    border: 5px #fff solid;
+    box-shadow: 0px 7px 17px -2px rgb(0 0 0 / 75%);
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

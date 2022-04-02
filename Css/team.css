@@ -1,0 +1,38 @@
+.headers{
+    background-color: #4ba951;
+    padding: 10px;
+    color: white;
+}
+.txt{
+    padding: 20px;
+    direction: rtl;
+    color: #4ba951;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+.btn{
+    font-weight: bolder;
+    font-size: 15px;
+    margin-left: 15px;
+}
+/* these codes belong to Bio page*/
+#bioContainer{
+    padding-bottom: 20px;
+}
+#bioContainer h2{
+    font-weight: bolder;
+    color: #4ba951;
+}
+.text1{
+    color: #4ba951;
+    direction: rtl;
+    font-size: larger;
+    font-weight: bolder;
+}
+.text2{
+    color: black;
+    direction: rtl;
+    font-size: larger;
+    font-weight: bolder;
+}
